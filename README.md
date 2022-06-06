@@ -5,4 +5,4 @@
 # Framework : HTML-CSS-Javascript Framework
 # Setup : XAMPP, MySQL, VS Code
 
-catatan : buat database denga nama pgw_db. Kemudian import
+catatan : buat database dengan nama pgw_db.sql Kemudian import database dari folder
